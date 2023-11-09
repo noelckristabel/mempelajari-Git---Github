@@ -1,2 +1,2 @@
-# mempelajari-Git---Github
+# mempelajari-Git-&-Github
 Git &amp; github
